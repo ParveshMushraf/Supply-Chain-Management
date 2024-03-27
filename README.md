@@ -16,7 +16,7 @@ There are 5 simple files for this demo that you can clone from https://github.co
 │   └── Dockerfile
 └── app
     └── SCMM
-    └── sourcecodester
+    └── sourcecodester_scm_new.sql
 ```
 
 Once this structure is replicated or cloned with these files, and Docker is installed locally, you can simply run "docker-compose up" from the root of the project to run this entire demo and point your browser (or curl) to http://localhost:80 to see the demo. We will get into what "docker-compose" is, and what makes up this basic demonstration in the following sections!
